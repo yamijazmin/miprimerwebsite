@@ -13,7 +13,9 @@ main {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #3a0ca3;
   }
-  
+  .greeting {
+    text-align: center;
+  }
   .navbar {
     display: flex;
     justify-content: space-between;
